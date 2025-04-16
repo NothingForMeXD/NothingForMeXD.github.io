@@ -205,12 +205,12 @@ header {
     animation-duration: 3s;
   }
   
-  @-webkit-keyframes fade {
+  .webkit-keyframes fade {
     from {opacity: .2} 
     to {opacity: 1}
   }
   
-  @keyframes fade {
+  keyframes fade {
     from {opacity: .2} 
     to {opacity: 1}
   }
